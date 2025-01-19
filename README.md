@@ -1,10 +1,11 @@
 # /me.exe
 
 ## /interests.txt
-- Linux / Cloud engeneering 
-- Cybersec / Com 
-- Self hosting / FOSS       
-- All the stuff below 
+- Linux / Cloud engeneering
+- Cybersec / Com
+- Programming - mostly backend
+- Self hosting / FOSS 
+- All the stuff below
 
 
 [![SkillIcons](https://skillicons.dev/icons?i=linux,arch,bash,raspberrypi,vercel,rust,py,vscode,aws,gcp,git,github,ableton,unity)](https://skillicons.dev)
