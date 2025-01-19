@@ -8,7 +8,7 @@
 - All the stuff below
 
 
-[![SkillIcons](https://skillicons.dev/icons?i=linux,arch,bash,html,css,cpp,cs,py,raspberrypi,vscode,aws,gcp,git,unity,ableton,discord)](https://skillicons.dev)
+[![SkillIcons](https://skillicons.dev/icons?i=linux,arch,bash,raspberrypi,aws,html,css,cpp,cs,py,vscode,git,unity,ableton,discord)](https://skillicons.dev)
 
 ## /stats.jpg
 <!-- ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/801378854618398740 simple=true)
