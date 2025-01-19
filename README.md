@@ -3,12 +3,12 @@
 ## /interests.txt
 - Linux / Cloud engeneering
 - Cybersec / Com
-- Programming - mostly backend
+- Programming
 - Self hosting / FOSS 
 - All the stuff below
 
 
-[![SkillIcons](https://skillicons.dev/icons?i=linux,arch,bash,raspberrypi,vercel,rust,py,vscode,aws,gcp,git,github,unity,ableton)](https://skillicons.dev)
+[![SkillIcons](https://skillicons.dev/icons?i=linux,arch,bash,raspberrypi,html,css,py,vscode,aws,gcp,git,github,unity,ableton)](https://skillicons.dev)
 
 ## /stats.jpg
 <!-- ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/801378854618398740 simple=true)
