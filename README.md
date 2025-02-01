@@ -1,9 +1,9 @@
 # /me.exe
 
 ## /interests.txt
-- Linux / Cloud engeneering
+- Linux / Cloud
 - Cybersec / Com
-- Programming
+- Programming / Creating
 - Self hosting / FOSS 
 - All the stuff below
 
